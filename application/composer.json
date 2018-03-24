@@ -1,0 +1,7 @@
+{
+    "name": "luissapalin/march242018",
+    "description": "SMS Notification Project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
